@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47523444426",
+    "project_id": "swiperight-3cbf7",
+    "storage_bucket": "swiperight-3cbf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47523444426:android:e8329a4d248679f928e633",
+        "android_client_info": {
+          "package_name": "com.example.swiperight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyZF2vGoUvsKyNoThDDb3VtIWhAAsNDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
